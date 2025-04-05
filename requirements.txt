@@ -1,0 +1,10 @@
+Flask==2.0.3
+Flask-MySQLdb==1.0.1
+mysqlclient==2.1.1  # Or use pymysql as an alternative
+pandas==2.0.3
+xgboost==1.7.2
+scikit-learn==1.2.2
+numpy==1.25.2
+gunicorn==21.2.0
+Jinja2==3.0.3
+Werkzeug==2.0.3
