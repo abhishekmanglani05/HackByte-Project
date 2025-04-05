@@ -13,7 +13,7 @@ from random import choice, sample
 import PyPDF2
 from docx import Document
 
-model = pickle.load(open("C:\\Users\\Dell\\complete web development\\HackByte\\sih1.pkl", "rb"))
+model = pickle.load(open("sih1.pkl", "rb"))
   
   
 app = Flask(__name__)
