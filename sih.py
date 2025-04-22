@@ -22,9 +22,9 @@ app = Flask(__name__)
 app.secret_key = 'xyzsdfg'
   
 app.config['MYSQL_HOST'] = 'sql12.freesqldatabase.com'
-app.config['MYSQL_USER'] = 'sql12771521'
-app.config['MYSQL_PASSWORD'] = 's7fwEqDGS7'
-app.config['MYSQL_DB'] = 'sql12771521'
+app.config['MYSQL_USER'] = 'sql12774742'
+app.config['MYSQL_PASSWORD'] = '49LqPLGIZw'
+app.config['MYSQL_DB'] = 'sql12774742'
   
 mysql = MySQL(app)
   
